@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://judaicadh.github.io/IIIFCollection/collection.json",
+  "id": "https://judaicadh.github.io/IIIFCollections/collection.json",
   "type": "Collection",
   "label": {
     "en": [
-      "Kaplan Collection of Early American Judaica"
+      "Moldovan Holy Land Map Collection"
     ]
   },
   "items": [
