@@ -1,0 +1,885 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://judaicadh.github.io/IIIFCollection/collection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Kaplan Collection of Early American Judaica"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p36m33q6r/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Iudaea, sive Terra Sancta quae Israelitarum in suas duodecim Tribus destincta  / Ex conatibus Gulielmi Sanson."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p35q4s68c/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Palestina, siue Terrae Sanctae descriptio"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p35h7ch52/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Jerusalem."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3xp6vq47/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Regno di Gerusalemme intempo delle guerre sagre"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3fq9qs2n/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Taffel des Heiligen Landes zu dem Newen Testament dienlich"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3kh0fk5v/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Geographisk Afritning… Israels. M Iohannes Leneus Inventor. V.S. Crautman fecit. J. Neuman sculpsit."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3q52g075/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Descriptio et situs Terrae Sanctae alio nomine Palestina..."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3zp3wm6f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Landtaffel der 12 Israelitische Stamme nach der Eintheilung Ezechiels"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3tx35t16/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chorographia Terrae Sanctae in angustiorem formam redacta, et ex variis auctoribus a multis erroribus expurgata"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p39z90z9r/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Soria e Terra Sancta nova tabula"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p32f7kc0q/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tabula Asiae IIII"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3gq6rp2w/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Land Tafel darinnen die Gegendt des paradys: das Land Canaan und andre von den Patriarchen bewohnte Laender..."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3668955b/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tabula nova terrae sanctae"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3bz61v90/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Palestine]  / W.H. sc."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3mc8s327/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Beschreibung des heiligen Landes Canaan"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3765b262/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Die Reise der Kinder Israel aus Egypten..."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p33f4m83d/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Syrie Ancienne"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3nc5t02g/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Delineatio und Beschreibung Palæstinæ oder des Gelobten Landes Sammt der Kinder Israel Vierzig Iährigen Reÿse in der Wüsten"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p30p0xb7x/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Terre Sanctae, quae Promissionis terra, est Syriae pars ea, quae Palaestina uocatur, descriptio  / per Tylmannu Stellam. Gerardus de Iode excudebat, Ioannes a Deutecum Lucas a Deutecum Fecerunt"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3ww77m2m/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tribuum Ephraim, Beniamin, et Dimidiae Manasse intra Iordanem partes occidentales, et partes seprentrionales Dan et Iuda"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3r49gw6z/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Terra Sancta Promissionis olim Palestina"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3cv4cc5f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Icy est la figure de c. 33, du troisiesme livre des Nombres   : Par ceste figure est monstre le chemin lequel au sortir d'Egypte fit le peuple d'Israel."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p34f1n51p/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Questa Tauola e l'Antica Siria ch'ora destinta in dodici Tribu hora si chiama la Soria et terra Sancta poseduta dal Turco"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3hm53583/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Viertzig Iährige Reysen Der Kinder Israel aus Eg·ypten durch das Rote-Meer und Wüsten biss ins Gelobte Land Canaan"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p31n7z764/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tribus Simeon et pars meridionalis Tribus Dan, et orientalis Tribus Iuda"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3s46hs85/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Dimidia Tribus Manasse Ultra Iordanem, Tribus Neptalim et partes orientales tribuum Zabulon et Isachar"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3862bz4x/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Questa Tauola e l'Antica Siria ch'ora destinta in dodici Tribu hora si chiama la Soria et terra Sancta poseduta dal Turco"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p35d8p19s/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tribus Ruben, et Gad et partes orientales tribuum Beniamin, Ephraim, et dimidiae Manasse intra Iordanem"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3ft8f55c/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Canaan or the Land of Promise. Possesed by the children of Israel and Travelled through"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3jm2429t/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Quarta Asiae tabula"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3vx06q1f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The description of the Holy Land, containing the places mentioned in the foure Evangelists..."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3dv1d85p/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pars maxima Tribus Iuda Versus Orientem"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3v40kk8n/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Beschreibung des Heiligen Landes"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p37941f5f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Terra Sancta XXIII nova tabula"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3xw48h2v/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Typus chorographicus, celebrium locorum in regno Iudae et Israhel  / arte factus a Tilemanno Stella Sigenensi. Abraham Ortelius in hanc formam minorem redigebat Anno MDLXXXVI."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3930pg2b/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tribus Aser, et partes occidentales tribuum Zabulon et Isachar"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3t43jp8d/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Terra Sancta quae in Sacris Terra Promissionis ol: Palestina"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p36970j75/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Palestinae sive totius Terrae Promissionis nova descriptio."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3c24r809/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Perigrinatie ofte Veertich-iarige Reyse der Kinderen Israels uyt Egypten, door de Roode-zee; mitsgaders de Woestyne tot int beloofde Landt Canaa...ende int licht gegeven  / door Claes Ianss Visscher int Iaer 1643. Fr.Brun. fe."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3qb9vs5f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Carte génerale pour servir à l'intelligence de l'histoire sainte principalement par report à ses premiers ages  / Dressée par Phil, Buache. Gravé par Marie Fse. Duval."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3kk95013/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Syria-Cypern-Palestina-Mesopotamia-Babylonia-Chaldea und zwey Arabia-mit Bergen-Waesseren und Staetten"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p38912b7n/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Quarta Asiae tabula"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3b27qc02/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Das Heilig Landt mit ausztheilung der zwoelff Geschlechter"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3gt5g25m/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Modern map of Palestine]"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p30r9mq96/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Palaestinae sive Terre Sancte descriptio"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3zw19d1m/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Syria-Cypern-Palestina-Mesopotamia-Babylonia-zwey Arabia-mit Bergen, Waesseren und Stetten"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3sb3xk3z/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Quarta Asiae tabula"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p34j0bj21/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Carte du voiage des Israelites dans le desert, depuis leur sortie de l'Egypte jusqu'au passage du Jourdain  / Dressee par l'Auteur du Commentaire de l'Exode, et executee par Liebaux, Geografe."
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p32n5046r/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Palestina moderna et Terra Sancta"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3mk65v9b/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Quinta tabula universalis Palaestinae, continens superiores partuculares tabulas"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p35h7cf36/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3pc2tw48/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p33j39n2s/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3d21s530/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3rb6wp3q/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3ht2gz7d/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3nk36s0p/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3f18t226/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p31r6nm8z/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3w37mg6c/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p32r3ph86/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3988378t/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3pk07n9t/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3js9hv6m/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3z02zw2n/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3x05z04s/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3b854482/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3t728295/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p30z71h7t/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3pn8z23q/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p38g8g43c/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p33r0qf1h/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p36h4db4x/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3rf5m26f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3f47hf41/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3g15tz02/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3x63bs1h/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3hx16b66/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3mp4w829/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3sf2mz5s/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p30000m5g/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p37h1f75n/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3h12vv1s/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3qf8k566/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3d50gj3v/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3v698z9f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3np1x50k/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3ks6jr3d/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p39c6sn1c/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3c825189/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p34q7rb0q/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3td9nv7f/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3jw8778v/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p31z42d6k/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p32z1395b/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3w669w18/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    },
+    {
+      "id": "https://colenda.library.upenn.edu/items/ark:/81431/p3z60cp1r/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Untitled Manifest"
+        ]
+      }
+    }
+  ]
+}
